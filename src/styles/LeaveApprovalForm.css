@@ -133,9 +133,6 @@
   transition: transform 0.2s ease;
 }
 
-.transfer-wf-button:hover {
-  transform: scale(1.05);
-}
 
 @media (max-width: 768px) {
   .leave-approval-form {

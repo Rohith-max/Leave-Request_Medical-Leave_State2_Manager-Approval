@@ -10,9 +10,6 @@
   transition: all 0.2s ease;
 }
 
-.action-button:hover {
-  transform: scale(1.05);
-}
 
 .reject-svg {
   width: auto;
